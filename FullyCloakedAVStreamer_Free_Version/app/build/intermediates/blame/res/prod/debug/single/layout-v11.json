@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

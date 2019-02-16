@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_fade_out.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/bounce_anim.xml",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/anim/bounce_anim.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/anim/abc_fade_in.xml",
+        "source": "/Users/harshasanthosh/.android/build-cache/5a31f3fa1b82cb29a9279ae99a2ac1d37b2c7834/output/res/anim/abc_fade_in.xml"
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/EVE/Forenzsick/FullyCloakedFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+            "map": [
+                {
+                    "source": "/Users/harshasanthosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/015e30b9730d42703519516f9dabd528/res/values-mk-rMK/values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,336,440,548,634,739,858,941,1023,1110,1216,1323,1424,1531,1642,1746,2082,2166",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "208,331,435,543,629,734,853,936,1018,1105,1211,1318,1419,1526,1637,1741,1839,2161,2262"
+                    }
+                },
+                {
+                    "source": "/Users/harshasanthosh/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/25ac82161e11b4a9697cb852327a5bea/res/values-mk-rMK/common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "241",
+                        "endOffsets": "407"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1844",
+                        "endColumns": "237",
+                        "endOffsets": "2077"
+                    }
+                }
+            ]
+        }
+    ]
+}

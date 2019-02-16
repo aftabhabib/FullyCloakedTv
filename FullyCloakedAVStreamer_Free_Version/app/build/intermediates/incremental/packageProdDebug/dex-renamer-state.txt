@@ -1,0 +1,4 @@
+#Sat Sep 23 01:50:29 IST 2017
+base.0=/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/transforms/dex/prod/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/transforms/dex/prod/debug/folders/1000/1f/main/classes.dex

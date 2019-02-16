@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FullyCloakedTV</string>
+    <string name="video_url">https://ia800201.us.archive.org/22/items/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4</string>
+    <string name="audio_url">http://stream.p4.no/bandit_mp3_hq</string>
+    <string name="enter_video_url">Upgrade to PRO</string>
+    <string name="enter_audio_url">Enter Audio URL</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="description">Media Controls</string>
+    <string name="channel_number">Channel No:</string>
+</resources>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_download_disabled.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_download_disabled.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_epg.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_epg.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_reset.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_reset.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_drop.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_drop.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_move_next.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_move_next.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_move_previous.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_move_previous.png"
+    },
+    {
+        "merged": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi/ic_icon.png",
+        "source": "/Users/harshasanthosh/Desktop/forenszick/AVStreamerFree/FullyCloakedAVStreamer_Free_Version/app/src/main/res/mipmap-hdpi/ic_icon.png"
+    }
+]

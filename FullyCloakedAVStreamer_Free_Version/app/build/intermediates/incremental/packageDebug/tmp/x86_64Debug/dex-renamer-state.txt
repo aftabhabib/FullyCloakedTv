@@ -1,0 +1,7 @@
+#Fri Jan 04 07:09:53 IST 2019
+base.0=/Volumes/EVE/Forenzsick/FullyCloakedFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Volumes/EVE/Forenzsick/FullyCloakedFree/FullyCloakedAVStreamer_Free_Version/app/build/intermediates/transforms/dexMerger/debug/0

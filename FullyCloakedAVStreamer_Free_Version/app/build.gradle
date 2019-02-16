@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "com.inoek.apps.fullycloakedtv_free_version"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86_64', 'x86', 'armeabi-v7a', 'arm64-v8a'
+            universalApk false
+        }
+    }
+}
+
+// map for the version code that gives each ABI a value. make sure to list all ABIs mentioned in splits block, an keep the order.
+ext.versionCodes = ['armeabi-v7a': 1, 'arm64-v8a': 4, 'x86': 2, 'x86_64': 3]
+import com.android.build.OutputFile
+
+// For each APK output variant, override versionCode with a combination of
+// ABI APK value * 1000 + defaultConfig.versionCode
+android.applicationVariants.all { variant ->
+    // assign different version code for each output
+    variant.outputs.each { output ->
+        output.versionCodeOverride =
+                project.ext.versionCodes.get(output.getFilter(OutputFile.ABI)) * 1000 + android.defaultConfig.versionCode
+    }
+}
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'com.android.support:appcompat-v7:25.3.1'
+    implementation 'com.google.android.gms:play-services-ads:8.4.0'
+    implementation 'de.mrmaffen:vlc-android-sdk:2.0.6'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+}
